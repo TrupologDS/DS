@@ -28,3 +28,7 @@
 *TF-IDF*
 
 *CatBoost*
+
+## Вывод
+
+В данной работе была проведена токенизация и с использованием метода padding и маской внимания и моделью класса BertModel. Было обучено три модели: LogisticRegression, RandomForestClassifier а также CatBoostClassifier, а также проведено сравнение их обучения.
